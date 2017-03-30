@@ -1,0 +1,2 @@
+Copy in this lib folder all contents of lib folder in zip file downloaded from https://sourceforge.net/projects/tess4j/files/latest/download?source=typ_redirect.
+Also copy in this lib folder the jar from dist folder in downloaded zip file. 

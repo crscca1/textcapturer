@@ -1,0 +1,1 @@
+Copy in this tessdata folder all contents of tessdata folder in zip file downloaded from https://sourceforge.net/projects/tess4j/files/latest/download?source=typ_redirect.
