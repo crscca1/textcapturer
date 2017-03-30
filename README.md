@@ -8,7 +8,7 @@ This work is shared under  Apache License.
 ###Usages
 
 Extract text from anywhere in screen.  
-Useful if working on a remote machine and need to copy text to local machine. (Launch from local machine and keep remote machine visible in a small window on local machine)
+Useful if working on a remote machine and need to copy text to local machine if direct remote clipboard is not possible. (Launch from local machine and keep remote machine visible in a small window on local machine)
 
 When launched will fill screen area and cover with a tint.  
 Can be minimized when needed to be set aside.  
